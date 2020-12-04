@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://vlagle.github.io/vlagle" resolutions="1x" timestamp="1607061881446">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://vlagle.github.io/vlagle" resolutions="1x" timestamp="1607062275113">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="187381184" ref="index"/>
+    <file name="index.css" crc="251127496" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -29,5 +29,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4205131928" seo="true" mt="1607061861609" redirect="true"/>
+  <file name="index.html" crc="3888245281" seo="true" mt="1607062059729" redirect="true"/>
 </manifest>
